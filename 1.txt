@@ -1,1 +1,18 @@
-Hello This Is my First File In Git Hub
+<?xml version="1.0" encoding="utf-8"?>
+<tns:READ_WRITE_IN_GBO xmlns:tns="http://eai.vodafone.com/2011-08/onlinecharging1">
+ <tns:MetaInfo>
+  <tns:ConsumerReqInfo>
+   <tns:circleId>09</tns:circleId>
+   <tns:serviceName>SubscribePackage</tns:serviceName>
+   <tns:channelName>PROVENG</tns:channelName>
+   <tns:segment>POSTPAID</tns:segment>
+   <tns:key>PE</tns:key>
+   <tns:transactionID>8884446946</tns:transactionID>
+  </tns:ConsumerReqInfo>
+ </tns:MetaInfo>
+ <tns:SRVPackage>
+  <tns:customerId>212852282</tns:customerId>
+  <tns:package>FP3GFS4LVIMX20GB</tns:package>
+  <tns:chargeMode>1</tns:chargeMode>
+ </tns:SRVPackage>
+</tns:READ_WRITE_IN_GBO>
